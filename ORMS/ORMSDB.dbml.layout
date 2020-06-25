@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.75, 12.5" name="ORMSDB">
+  <DataContextMoniker Name="/ORMSDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="565dcac2-f345-4f1d-a1f9-0ad5f81a93b0" absoluteBounds="0.75, 4.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/ORMSDBDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c7c3739-4bc8-48f8-af17-1574895238df" absoluteBounds="0.765, 4.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c97c8411-aa85-4ff9-86b7-966183f55d4a" absoluteBounds="0.75, 2, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/ORMSDBDataContext/TableNumber" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f220f29a-279f-48f1-bd5b-d346b190a209" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1d26c584-1708-476a-9831-cb84ce99399b" absoluteBounds="6.75, 7.375, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/ORMSDBDataContext/Inventory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf3355a4-0538-4f6d-958a-a2d2fca09ad6" absoluteBounds="6.765, 7.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9a807a24-165b-46d2-b689-d02b36a2a57d" absoluteBounds="6.25, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ORMSDBDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ccfc208-17a7-426e-bbc9-6ae8c3a7ea34" absoluteBounds="6.265, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99120af5-9bc3-426b-9388-545247f05fa3" absoluteBounds="3.5, 1, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/ORMSDBDataContext/Menu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f2dc72c-2653-42fa-b339-92614f1dc47e" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="63e92617-213b-49ff-87ae-42e1cc0aa236" absoluteBounds="9.5, 4.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/ORMSDBDataContext/MenuItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc93a052-2bac-4289-92f9-314f003966bd" absoluteBounds="9.515, 4.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="33494644-24ac-4730-aaa3-f2df1fe6b247" absoluteBounds="3.5, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ORMSDBDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff49bd35-b40e-4e18-b4d9-e79698ac6bed" absoluteBounds="3.515, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4dd6a88-ce74-4052-b2e3-f4686f3e6213" absoluteBounds="6.25, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ORMSDBDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ce9b847-5a6b-46b3-99af-ee6afecc0467" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1a4e04a2-5206-457e-baa3-4a0a62e961cc" absoluteBounds="3.5, 6.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ORMSDBDataContext/Payroll" />
+      <nestedChildShapes>
+        <elementListCompartment Id="deb2feea-202e-49e7-96b5-68590cc032d2" absoluteBounds="3.515, 6.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a46ce25a-3bff-497f-b8a8-8af4ea51eced" absoluteBounds="6.75, 10.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ORMSDBDataContext/Supplier" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c036ec20-7161-4ea9-83be-e2d34b375ddf" absoluteBounds="6.765, 11.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7be1192f-eb1f-47fb-baca-3719b4ff2f85" absoluteBounds="9.5, 7.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/ORMSDBDataContext/SupplierInventory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="294eac6f-7ff4-4080-b18e-9731449677fe" absoluteBounds="9.515, 8.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.53125 : 7.375); (8.53125 : 5.63869466145833); (9.5 : 5.63869466145833)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Inventory/Inventory_MenuItem" />
+      <nodes>
+        <classShapeMoniker Id="1d26c584-1708-476a-9831-cb84ce99399b" />
+        <classShapeMoniker Id="63e92617-213b-49ff-87ae-42e1cc0aa236" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.58099609375); (5.79166666666667 : 2.58099609375 : JumpStart); (5.95833333333333 : 2.58099609375 : JumpEnd); (10.5 : 2.58099609375); (10.5 : 4.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Menu/Menu_MenuItem" />
+      <nodes>
+        <classShapeMoniker Id="99120af5-9bc3-426b-9388-545247f05fa3" />
+        <classShapeMoniker Id="63e92617-213b-49ff-87ae-42e1cc0aa236" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.53929768880208); (6.25 : 4.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Order/Order_Invoice" />
+      <nodes>
+        <classShapeMoniker Id="33494644-24ac-4730-aaa3-f2df1fe6b247" />
+        <classShapeMoniker Id="9a807a24-165b-46d2-b689-d02b36a2a57d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.78929768880208); (3.5 : 4.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Employee/Employee_Order" />
+      <nodes>
+        <classShapeMoniker Id="565dcac2-f345-4f1d-a1f9-0ad5f81a93b0" />
+        <classShapeMoniker Id="33494644-24ac-4730-aaa3-f2df1fe6b247" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.19399251302083); (3.125 : 3.56899251302083); (3.125 : 3.375); (3.5 : 3.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ORMSDBDataContext/TableNumber/TableNumber_Order" />
+      <nodes>
+        <classShapeMoniker Id="c97c8411-aa85-4ff9-86b7-966183f55d4a" />
+        <classShapeMoniker Id="33494644-24ac-4730-aaa3-f2df1fe6b247" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.66429768880208); (5.79166666666667 : 1.66429768880208 : JumpStart); (5.95833333333333 : 1.66429768880208 : JumpEnd); (6.25 : 1.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Menu/Menu_OrderItem" />
+      <nodes>
+        <classShapeMoniker Id="99120af5-9bc3-426b-9388-545247f05fa3" />
+        <classShapeMoniker Id="e4dd6a88-ce74-4052-b2e3-f4686f3e6213" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.75); (5.875 : 3.375); (5.875 : 1.17589684440104); (6.25 : 1.17589684440104)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Order/Order_OrderItem" />
+      <nodes>
+        <classShapeMoniker Id="33494644-24ac-4730-aaa3-f2df1fe6b247" />
+        <classShapeMoniker Id="e4dd6a88-ce74-4052-b2e3-f4686f3e6213" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 6.7901025390625); (1.75 : 8.01125375520833); (3.5 : 8.01125375520833)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Employee/Employee_Payroll" />
+      <nodes>
+        <classShapeMoniker Id="565dcac2-f345-4f1d-a1f9-0ad5f81a93b0" />
+        <classShapeMoniker Id="1a4e04a2-5206-457e-baa3-4a0a62e961cc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 8.44314697265625); (9.5 : 8.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Inventory/Inventory_SupplierInventory" />
+      <nodes>
+        <classShapeMoniker Id="1d26c584-1708-476a-9831-cb84ce99399b" />
+        <classShapeMoniker Id="7be1192f-eb1f-47fb-baca-3719b4ff2f85" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 11.4142976888021); (10.5 : 11.4142976888021); (10.5 : 9.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ORMSDBDataContext/Supplier/Supplier_SupplierInventory" />
+      <nodes>
+        <classShapeMoniker Id="a46ce25a-3bff-497f-b8a8-8af4ea51eced" />
+        <classShapeMoniker Id="7be1192f-eb1f-47fb-baca-3719b4ff2f85" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

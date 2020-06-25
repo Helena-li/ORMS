@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ORMS.BLL.LoginBLL" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAEAQAAEAAABAAAAAAAEFBAAAAAAg=</HashCode>
+      <FileName>BLL\LoginBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.OrderBLL" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAQAQAAAAAAAAIAAAAAAAAAAEAAAAACAAA=</HashCode>
+      <FileName>BLL\OrderBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.PayrollBLL" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>BLL\PayrollBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.ParttimePayrollBLL" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\PayrollBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.FulltimePayrollBLL" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\PayrollBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.RecordBLL" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>R/ICoGKWGQw0AAMPSCADRCAQEAJAHOggiQBIEAQQAHE=</HashCode>
+      <FileName>BLL\RecordBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.StockBLL" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAhAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>BLL\StockBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.BLL.TableEventArgs" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\TableEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.DAL.EmployeeDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\EmployeeDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.InvoiceDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\InvoiceDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.MenuDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\MenuDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.MenuItemDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\MenuItemDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.OrderDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\OrderDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.OrderItemDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\OrderItemDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.PayrollDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\PayrollDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.StockDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\StockDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.SupplierDAL" BaseTypeListCollapsed="true">
+    <Position X="3" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\SupplierDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.SupplierInventoryDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\SupplierInventoryDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.DAL.TableDAL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\TableDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.ORMSDataSet" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgKQBgAAAAAAAkEBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet1" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAACQAAAAAgCQBgAAAAAAgEAFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet2" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQDgAAAAAAAEABRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet3" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgGQBgAAACIAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDBDataContext" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQMAQAkAABMABNAoKAAAIACSCCAwABMIIEgSIGIAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Employee" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsjAAgBACAAAEAQXAEkIEYxmSEAQABGKAgEIAhJAAg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.TableNumber" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAkgAABFAAAAAAQAQEEAAAABiCEEAAAAIAEgAAAIAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Inventory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIiCAjBAAAAABIATAEgBKBBiCQAABhCIBACAAIBCgg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Invoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMgIBEBAQACgAAAQAEAAEBDiCBAQAAAAAKAACABAQA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Menu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAigAIBAwECABFAQgEgIAYJiCAARBBEoQAAQAAABAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.MenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEBAAAggACAwAEEAAYBiCAIBgAAIBAAQgAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Order" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICIgkBJBAQECgAAgSEEAAABJiCAFAABAgAAgACANAAg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.OrderItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEgABABAQAggAAAQAEEAAJDiCAIBAAAIBAAwAAFAAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Payroll" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA4gEgwVkBGgAUAASREgAAABiCAhCgQQQEGBBEAhCRg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Supplier" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAADBAAAAAAAQUAEQAEIBmCAAABACIPAAIABAAAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.SupplierInventory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAEBAAAAgICAwAEUAARBiCAAAgAAADAAAgAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ORMS.Program" Collapsed="true">
+    <Position X="17.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSetTableAdapters.MenuTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="17.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAQAAMAAgAAACgAAAAAQAAAAABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet1TableAdapters.InventoryTableAdapter" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgACAAAQABAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet2TableAdapters.InvoiceTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAJARAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet3TableAdapters.PayrollTableAdapter" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.ORMSDataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="ORMS.ORMSDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="ORMS.ORMSDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAgAAMAAgAAACgAAAgAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.AssistantForm" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARCAAAgAQCoAAAAAgACAAAACAgAIgAgAAmEAIQBAAIA=</HashCode>
+      <FileName>PL_view\AssistantForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.AttendantForm" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQCAAAgEQCgABFAAAACgACoCCBAAEgkBMikCAACAQAA=</HashCode>
+      <FileName>PL_view\AttendantForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.HrForm" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yCEJAPGSCgAQFCICECADwYWKAAEiigCuyECAACgFTc=</HashCode>
+      <FileName>PL_view\HrForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.InventoryForm" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAEICKFQFAAAACGAyIGAAAAAyAAoCAiQACCACE=</HashCode>
+      <FileName>PL_view\InventoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.InvoiceForm" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAgBAAAACgACgCAAAAAAEAMCAAAAAAAAA=</HashCode>
+      <FileName>PL_view\InvoiceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.LoginForm" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABAAAICIAAASAAAAAAAiIQAAAAAAIBA=</HashCode>
+      <FileName>PL_view\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.ManageMenuForm" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACFCCAAQBAAACSAAYCGgAAAgiAAoCAAAAAgAAE=</HashCode>
+      <FileName>PL_view\ManageMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.ManageMenuItemsForm" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACECCAAwBAAAASAAYAGgAAAAiAAoCQAAAAAAAE=</HashCode>
+      <FileName>PL_view\ManageMenuItemsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.ManagerForm" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARCAAAoAQWoAAAIAgACAAQACAgAIiAgACyEAAABgAAA=</HashCode>
+      <FileName>PL_view\ManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.NewOrderForm" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAEACBEwHQAIEiiAwJGAAAAAhCAMCgCAACAQIE=</HashCode>
+      <FileName>PL_view\NewOrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.RegisterForm" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rgAAAAQEEDAAAFAAAACCBABGhCAAEAhAIQAEgAALAAI=</HashCode>
+      <FileName>PL_view\RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.SupplierForm" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGACAAQFAAAACAAxIGQAAAEmAAoCACAACAACE=</HashCode>
+      <FileName>PL_view\SupplierForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.SupplierInventoryForm" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEICAAQFAAABCiAQAGCAAAACAAojAAAACAAAE=</HashCode>
+      <FileName>PL_view\SupplierInventoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.PL_view.TableManagement" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAABEECAAABAAAEiABgACAAAAAgAAICAAEAAACAA=</HashCode>
+      <FileName>PL_view\TableManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Reports.InventoryReportForm" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAQABAAAACAAAICAAAAABAEICACCAAEACA=</HashCode>
+      <FileName>Reports\InventoryReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Reports.MenuReportForm" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAABACAQABAAAACAAAICAAAEAAAEICACBAEgAAA=</HashCode>
+      <FileName>Reports\MenuReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Reports.PayrollReportForm" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAQABACAACAAAKCAAAAAAAEICACAAAABAA=</HashCode>
+      <FileName>Reports\PayrollReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ORMS.Reports.SalesReportForm" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAQABACBACAAAICAAAAAAAEICCCAgAAAAA=</HashCode>
+      <FileName>Reports\SalesReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlServerTypes.Utilities" Collapsed="true">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SqlServerTypes\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ORMS.DAL.IServices&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAACAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAL\IServices.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="ORMS.BLL.NotifyEventDelegate" Collapsed="true">
+    <Position X="5.25" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\StockBLL.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="ORMS.PL_view.TableHandler">
+    <Position X="8" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PL_view\TableManagement.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
